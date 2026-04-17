@@ -33,7 +33,8 @@ Analyze e-commerce sales data to derive insights on revenue, profit, customer be
 
 ## 📸 Dashboard Preview
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/8ec7d8e7-7d96-45cb-968d-cef9795b08ad" />
+
 
 ## 🚀 Outcome
 
